@@ -1,100 +1,48 @@
-Johnny Coder
+Łukasz Okrąglewski
 ============
 
-----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
+Wykształcenie
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2019 (spodziewany)
+:   **Inż, Informatyka**; Politechnika Łódzka
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Doświadczenie
 ----------
 
-**Your Most Recent Work Experience:**
+**Praktyki w firmie DotConnect jako software developer**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Tworzenie multiplatformowej aplikacji na urządzenia mobilne
 
-* First item
+* Xamarin, C#
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Szkolenie z Metodyki SCRUM**
 
-**That Other Job You Had**
+* Prowadzone przez Liki Mobile Solutions
 
-Also with a short description.
-
-Technical Experience
+Teczniczne umiejętności
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Programowanie
+:   **JAVA:** Zagadnienia Javy 8, Podstawowa znajomość Maven, Spring, Lombok
+:   **SQL:** Podstawy zarówno ORACLE jak i MS SQL 
+:   **HTML/CSS/JS**
+:   Podstawowa znajomość: **Python**, **Scala**, **AngularJS**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Dodatkowe umiejętności
+: **GIT**
+: **Linux**
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Języki
 ----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Angielski (C1)
+* Rosyjski (podstawowy)
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <lukasz.okraglewski@outlook.com> • +48 513 602 211 •
+> Łączna 28 m 13, Łódź
+
+----
+
+_Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawą z dnia 29.08.1997 roku o Ochronie Danych Osobowych; tekst jednolity: Dz. U. 2016 r. poz. 922)._
